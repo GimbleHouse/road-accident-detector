@@ -3,6 +3,10 @@ this is a project where i have created an android app which predicts or identifi
 it uses inbuild sensors such as gyroscope and accelerometer to make predictions and make emergency calls for the rider 
 note : this particular version focus on 2 wheelers only 
 
+original dev team :-
+Abdul Muhaimin
+Helal Amer
+Subharanjan Nayak
 also i have also put a video there showing the demo!
 --------------------
 peace !
